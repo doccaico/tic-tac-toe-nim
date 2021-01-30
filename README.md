@@ -1,7 +1,6 @@
 ###  Tic Tac Toe in Nim
-
 Just a Tic Tac Toe game created in Nim
-
+[Demo (js version)](https://doccaico.github.io/tic-tac-toe-nim/)
 ### Build
 ```sh
 # js
